@@ -25,7 +25,7 @@ class HomeScreen : AppCompatActivity() {
 
     private fun setupListener() {
         binding.btnCreateTenant.setOnClickListener {
-            // Start Next Activity Here
+
         }
     }
 
